@@ -1,0 +1,44 @@
+
+body {
+     display: flex;
+    padding-top:5em; 
+    margin: 0%;
+}
+ol, ul,li {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: var(--cor-de-link);
+}
+
+main{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+
+/*cabecera*/
+
+
+
+.cabecera-items{
+    background: rgb(238, 213, 180);
+    text-align: center;
+    font-size: 15px;
+    top: 0;
+}
+
+.titulo{
+    border-radius: 50px;
+    background: rgb(122, 74, 170); 
+}
+
+.imformacion--lista{
+    border:5px solid rgb(122, 74, 170);
+    border-radius: 50px;
+    background: rgb(122, 74, 170); 
+    margin-top: 12px;
+}
+

@@ -1,0 +1,28 @@
+.presentacion{
+    gap: 0px;
+  
+    flex-direction: column;
+    background:#e5e75b;
+}
+
+
+.sobremi{
+    font-size: 50px; 
+    color: black;
+    padding-right: 30%;
+    padding-left: 20%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.parrafo{
+    padding-right: 30%;
+    padding-left: 20%;
+    font-size: 25px;
+}
+
+.firma{
+    padding-right: 80%;
+    padding-left: 20%;
+    height: 150px;
+    width: 200px;
+}

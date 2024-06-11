@@ -1,0 +1,54 @@
+.experiencia-porfesional{
+    background: rgb(179, 126, 126);
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding-bottom: 50px;
+}
+
+.titulo-experiencia{
+    font-size: 50px;
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.lineas-experiencia{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.imagen-experiencia{
+    width: 600px;
+    height: 400px;
+    border-radius: 25px;
+}
+
+.titulo-proyectos{
+    font-size: 2em;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.botones-experiencia{
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.boton-repo{
+    font-size: 3em;
+    background: rgb(235, 121, 121);
+    border-radius: 15px;
+}
+
+.boton-demo{
+    font-size: 3em;
+    background: rgb(235, 121, 121);
+    border-radius: 15px;
+}

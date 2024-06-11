@@ -1,0 +1,38 @@
+
+.presentacion{
+    padding-top: 10px;
+}
+
+.pequeña-descripcion{
+    display: flex;
+   align-items: center;
+    left: 0%;
+    right:0%;
+    padding-left: 30px;
+}
+
+.sobremi{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.soy{
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.descripcion{
+    font-size: 30px;
+}
+
+.redes{
+    font-size: 30px;
+    display: flex;
+    gap: 50px;
+}
+
+.imagen-perfil{
+   
+    padding: 20px;
+    border-radius: 100%;
+}

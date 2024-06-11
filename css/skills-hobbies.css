@@ -1,0 +1,45 @@
+.skills-hobbies{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    background-color: gray;
+}
+
+.titulo-skills{
+    font-size: 50px;
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo-hobbies{
+    font-size: 50px;
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cajas-linea{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    gap: 50px;
+}
+
+.bloque-skills-hobbies{
+    font-size: 30px;
+}
+
+.interior-bloque{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 0%;
+    text-align: center;
+    background: white;
+    border-radius: 10px;
+}
+
+.Imagen-skills-hobbies{
+    height: 150px;
+    width: 150px;
+}

@@ -1,0 +1,45 @@
+.formacion-academica{
+    background-color: rgb(150, 150, 150);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding-bottom: 50px;
+}
+
+.titulo-formacion-academica{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 50px;
+}
+
+.seccion-formacion{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    gap: 50px;
+}
+
+
+
+.cuadro-seccion{
+    
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 0%;
+    text-align: center;
+    background: white;
+    border-radius: 10px;
+    padding-right: 50px;
+    
+}
+
+.interior-secciom{
+    display: flex;
+}
+
+.foto-formacion{
+    height: 150px;
+    width: 150px;
+}
